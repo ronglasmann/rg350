@@ -1,7 +1,0 @@
-[Desktop Entry]
-Type=Application
-Name=Go SDL2
-Comment=Go program using SDL2
-Exec=gosdl2
-Categories=games;
-Icon=icon
